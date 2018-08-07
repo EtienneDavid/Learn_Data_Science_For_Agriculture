@@ -17,6 +17,7 @@ I've been largely inspired by the work of Siraj raval ( ||Source|| on github) fo
 ## II- Advanced
 
 ### Machine and Deep Learning
+- https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 
