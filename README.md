@@ -29,3 +29,6 @@ I've been largely inspired by the work of Siraj raval ( ||Source|| on github) fo
 ## List of challenges to solved
 
 How to learn Data Science for Agriculture ?
+
+## Miscelleanous
+- WSL for Data Science: https://joshpeng.github.io/post/wsl/
