@@ -20,6 +20,7 @@ I've been largely inspired by the work of Siraj raval ( ||Source|| on github) fo
 - https://github.com/Avik-Jain/100-Days-Of-ML-Code
 - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 - https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
+- Bayesian optimisation: http://gpss.cc/gpmc17/slides/LancasterMasterclass_1.pdf
 
 ### Phenotyping challenges
 #### Ressources
