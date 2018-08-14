@@ -38,3 +38,7 @@ How to learn Data Science for Agriculture ?
 install protobuf
 https://github.com/google/protobuf/releases
 for /f %G in ('dir /b object_detection\protos\*.proto') do "C:\Program Files (x86)\protoc-3.6.1-win32\bin\protoc.exe" object_detection\protos\%G --python_out=.
+
+
+#### Labelling
+- https://github.com/Microsoft/VoTT
