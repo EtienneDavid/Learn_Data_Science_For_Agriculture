@@ -41,4 +41,4 @@ for /f %G in ('dir /b object_detection\protos\*.proto') do "C:\Program Files (x8
 
 
 #### Labelling
-- https://github.com/Microsoft/VoTT
+- for video: https://github.com/Microsoft/VoTT
