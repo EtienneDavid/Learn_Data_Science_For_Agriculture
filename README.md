@@ -42,3 +42,34 @@ for /f %G in ('dir /b object_detection\protos\*.proto') do "C:\Program Files (x8
 
 #### Labelling
 - for video: https://github.com/Microsoft/VoTT
+
+
+#### Agriculture 
+
+source : www.Danforthcenter.org 
+
+A healther, more, sustaniable world achieved through imagination, innovation and collaboration 
+
+##### Grand challenges: 
+- Increase production of more nutritional food 
+- Presere naturalressources like water and topsoil 
+- Develop sustainable sources of bioenergy 
+
+##### Basic research to understand 
+- Photosynthesis 
+- Drought tolerance 
+- Nutrient uptake 
+- Microbial interactions 
+- Response to pathogens 
+
+##### Innovative Technology to accelerate discovery 
+- Genomics / Phenomics 
+- Crisp genome editing 
+- Robotics / Imaging 
+- Computation 
+
+###### Impact  
+- Licensed technology 
+- Nex company formation 
+- Improved crops 
+- Next-generation scientist 
