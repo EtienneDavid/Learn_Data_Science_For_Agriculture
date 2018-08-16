@@ -2,6 +2,8 @@
 
 Find here ressources to improve in Data Science for Agriculture.
 
+<================ WORK IN PROGRESS !!! ===========================================>
+
 I've been largely inspired by the work of Siraj raval ( ||Source|| on github) for making this curriculum.
 
 ## I- Basics 
