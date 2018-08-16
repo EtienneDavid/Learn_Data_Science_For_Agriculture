@@ -77,3 +77,8 @@ A healther, more, sustaniable world achieved through imagination, innovation and
 - Nex company formation 
 - Improved crops 
 - Next-generation scientist 
+
+
+### Annotations
+- https://en.wikipedia.org/wiki/List_of_manual_image_annotation_tools
+(UMT CAPTE => Labelmg)
