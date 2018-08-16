@@ -78,6 +78,8 @@ A healther, more, sustaniable world achieved through imagination, innovation and
 - Improved crops 
 - Next-generation scientist 
 
+#### Agricultural models
+- http://www1.clermont.inra.fr/siriusquality/
 
 ### Annotations
 - https://en.wikipedia.org/wiki/List_of_manual_image_annotation_tools
