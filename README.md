@@ -45,6 +45,8 @@ for /f %G in ('dir /b object_detection\protos\*.proto') do "C:\Program Files (x8
 #### Labelling
 - for video: https://github.com/Microsoft/VoTT
 
+#### Counting
+- https://github.com/gjy3035/Awesome-Crowd-Counting
 
 #### Agriculture 
 
