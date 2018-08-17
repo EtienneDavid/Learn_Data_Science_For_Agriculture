@@ -9,7 +9,7 @@ I've been largely inspired by the work of Siraj raval ( ||Source|| on github) fo
 ## I- Basics 
 
 ### Starting or improving in Computer Science
-
+- https://automatetheboringstuff.com/
 - https://github.com/llSourcell/Learn_Computer_Science_in_5_Months
 
 ### Agriculture for dummies
