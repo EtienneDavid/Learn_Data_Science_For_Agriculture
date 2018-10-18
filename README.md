@@ -51,6 +51,8 @@ for /f %G in ('dir /b object_detection\protos\*.proto') do "C:\Program Files (x8
 #### Agriculture 
 
 source : www.Danforthcenter.org 
+http://www.modelia.org/moodle/
+AgroTIC
 
 A healther, more, sustaniable world achieved through imagination, innovation and collaboration 
 
@@ -84,3 +86,6 @@ A healther, more, sustaniable world achieved through imagination, innovation and
 ### Annotations
 - https://en.wikipedia.org/wiki/List_of_manual_image_annotation_tools
 (UMT CAPTE => Labelmg)
+
+Install tensorflow API
+https://medium.com/@karol_majek/10-simple-steps-to-tensorflow-object-detection-api-aa2e9b96dc94
