@@ -1,6 +1,12 @@
+# Practical Deep Learning fro agriculture slides
+
+You can find my slides for Deep Learning training here:
+https://1drv.ms/f/s!AjR7TH0MGCgIhY162GFktgQ45Rl11g
+
 # Learn_Data_Science_For_Agriculture
 
 You want to use the power of Data Science for Agriculture ? I've gathered ressources to improve in both domains in order to be able to tackle the biggest issues
+
 
 ## I- The biggest challenges to adress 
 
